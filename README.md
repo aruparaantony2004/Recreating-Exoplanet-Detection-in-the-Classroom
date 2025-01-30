@@ -15,7 +15,7 @@ This repository contains resources for building and utilizing a low-cost, intera
 2. **STL Files:**
    - Ready-to-print files for all mechanical components.
 3. **Circuit Schematic:**
-   - Detailed wiring diagram for assembling the electronic components.
+   - Circuit schematic for assembling the electronic components.
 4. **Microcontroller Code:**
    - Code for the ESP-1 (master) and ESP-2 (slave).
 5. **Assembly Pictures:**
@@ -26,7 +26,7 @@ This repository contains resources for building and utilizing a low-cost, intera
 ## How to Use
 
 1. **3D Printing:**
-   - Use the provided STL files to print the components.
+   - Use the provided STL files to print the components. User is encouraged to 
 2. **Mechanical Assembly:**
    - Follow the CAD models and assembly images to construct the model.
 3. **Circuit Setup:**
