@@ -4,7 +4,7 @@ This repository contains resources for building and utilizing a low-cost, intera
 ## Features
 - **Interactive Simulation:** Adjust parameters like star-planet distance and orbital period via a web-based interface.
 - **Hands-On Learning:** Observe and analyze light curves to derive properties of exoplanetary systems.
-- **Customizable:** Includes resources for 3D printing, circuit assembly, and microcontroller programming.
+- **Customizable:** Includes resources for designing, 3D printing, circuit assembly, and microcontroller programming.
 
 ---
 
@@ -25,12 +25,12 @@ This repository contains resources for building and utilizing a low-cost, intera
 
 ## How to Use
 
-1. **3D Printing:**
-   - Use the provided STL files to print the components. User is encouraged to 
+1. **Designing and 3D Printing:**
+   - Customize the design using the provided SolidWorks files to suit your application, or directly use the STL files for 3D printing the mechanical components. 
 2. **Mechanical Assembly:**
-   - Follow the CAD models and assembly images to construct the model.
+   - Follow the CAD model and model-assembly images to guide the construction the model.
 3. **Circuit Setup:**
-   - Refer to the circuit schematic to connect the components.
+   - Refer to the circuit schematic to connect the electronic components.
 4. **Programming the Microcontrollers:**
    - Load the `ESP1_Master` code onto the master ESP32.
    - Load the `ESP2_Slave` code onto the slave ESP32.
