@@ -1,5 +1,5 @@
 # Recreating-Exoplanet-Detection-in-the-Classroom
-## By - Antony A , Soham M, Siddhey N, Lokaveer A, Yasir M, Yogahariharan S, Anand Narayanan, Priyadarshan Hari
+#### Authors - Antony A , Soham M, Siddhey N, Lokaveer A, Yasir M, Yogahariharan S, Anand Narayanan, Priyadarshan Hari
 This repository contains resources for building and utilizing a low-cost, interactive model simulating the transit method of exoplanet detection. Designed as a teaching aid, this model enables visualization and experimentation with light curves generated during planetary transits, fostering a deeper understanding of this widely used exoplanet detection technique.
 
 ## Features
